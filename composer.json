@@ -1,0 +1,5 @@
+{
+    "require": {
+        "robbiep/cloudconvert-laravel": "^3.0"
+    }
+}
